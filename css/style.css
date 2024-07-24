@@ -756,6 +756,7 @@ body, html {
     color: #6C727F;
     background-color: transparent;
     border: none;
+    border:none;
     padding: 15px 15px;
 }
 
