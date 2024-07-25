@@ -2741,25 +2741,23 @@ body,html {
         width: 65vw;
         padding: 20px 0px 0px 0px;
     }
-
     #container8 .con8 .page8-middle .page8-p {
-        font-size: 12px;
-        width: 200px;
-        padding: 20px;
-        margin-left: 40px;
+        font-size: 13px;
+        width: 300px;
+        padding: 20px 0px 20px 0px;
+        margin-left: 0px;
     }
 
     #container8 .con8 .page8-middle .page8-bottom-p {
         font-weight: 400;
-        padding-top: 20px;
-        width: 200px;
-        padding-left: 60px;
+        width: 300px;
+        padding: 20px 0px 20px 0px;
     }
 
     #container8 .con8 .page8-middle .input {
-        margin-left: 30px;
+        margin-left: 0px;
+        width: 300px;
     }
-
     #container4 .page4 {
         gap: 5px;
         padding: 10px 30px 0px 50px;
